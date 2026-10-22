@@ -1,0 +1,23 @@
+{
+  "name": "slopstop",
+  "version": "1.0.0",
+  "description": "Zero-fluff, anti-AI-slop rule generator for Cursor, Claude, Copilot, and Codex",
+  "type": "module",
+  "main": "cli.mjs",
+  "bin": {
+    "slopstop": "./cli.mjs"
+  },
+  "files": [
+    "cli.mjs"
+  ],
+  "keywords": [
+    "ai",
+    "cursor",
+    "claude",
+    "copilot",
+    "anti-slop",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
